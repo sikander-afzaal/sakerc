@@ -8,6 +8,9 @@ export default {
         header: "rgba(31,36,44)",
         primary: "#101317",
       },
+      backgroundImage: {
+        tokenomics: "url('/tokenomics-bg.webp')",
+      },
       fontFamily: {
         sans: ["Raleway", ...defaultTheme.fontFamily.sans],
         oswald: ["Oswald"],
